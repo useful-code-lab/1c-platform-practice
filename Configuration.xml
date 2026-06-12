@@ -259,6 +259,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Склады</Catalog>
 			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
