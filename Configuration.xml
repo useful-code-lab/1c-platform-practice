@@ -262,10 +262,13 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Сотрудники</Catalog>
+			<Catalog>ГрафикиРаботы</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>ОстаткиТоваров</Report>
+			<InformationRegister>ГрафикиРаботы</InformationRegister>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Основной</ChartOfAccounts>

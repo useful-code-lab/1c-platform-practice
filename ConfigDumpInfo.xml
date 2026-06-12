@@ -12,17 +12,19 @@
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Номенклатура" id="90889f64-f6a2-44bd-b9dc-b4c53f267a3b"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Склад" id="bff97923-9690-41ef-92be-d90f8273d359"/>
 		</Metadata>
+		<Metadata name="Catalog.ГрафикиРаботы" id="ed99b03c-f064-4432-b7cb-74620beadfe8" configVersion="1cacb718c99ed9478d15301aba579f4900000000"/>
 		<Metadata name="Catalog.Контрагенты" id="105170d9-4473-40e5-9ed6-120a8665c40a" configVersion="ad49b5e07f029f4aaa2337df233349dc00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="c1480c98-b443-4406-a442-7d83efae9aa5" configVersion="48100993031bf94f977b45ce0e9cb86c00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="f422221a-0e12-4032-b588-8ed1551c1bd1"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="4328ba93-3e43-46be-8f2a-2dbcf8ac28ae" configVersion="2dd3cb92a34dac409fa518a27ad6345d00000000"/>
 		<Metadata name="ChartOfAccounts.Основной" id="e22b499a-a989-4108-b745-2d59ebf55009" configVersion="21549865fe048547a0bb49ba18f4f79d00000000">
 			<Metadata name="ChartOfAccounts.Основной.ExtDimensionAccountingFlag.Количественный" id="4aff0bb1-5f78-42b0-a244-e4c9bfe215bb"/>
 			<Metadata name="ChartOfAccounts.Основной.AccountingFlag.Количественный" id="5930d99b-a171-467d-9018-9f56f2a5f68d"/>
 		</Metadata>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконто" id="fd3020ce-e9f4-48d2-b9fc-68f2661e4866" configVersion="18326e0ff73ecf4b81cac3cca39781d700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="9a470c6f0faa574a924da7ce1a4a610a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="53e0d758ccbbda4da62ddd61d1d14bc800000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="d3881398eabbca4f8c113b598681f29c00000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>
@@ -48,6 +50,11 @@
 		<Metadata name="Enum.ВидыНоменклатуры" id="f4bf1992-169e-482c-8fd4-c5ecdceb40de" configVersion="e7f92ec3cf7ccb4fa587323dd3c17c0300000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a2f6e26d-1593-4fd1-9a7c-2cdc340a1226"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ГрафикиРаботы" id="1b556b8b-d649-4a1c-8ef9-c15c03cad8cd" configVersion="3aad69a69e221442a56f59431bd6bebe00000000">
+			<Metadata name="InformationRegister.ГрафикиРаботы.Dimension.Дата" id="116bad62-45a5-4be5-91de-147db0db8212"/>
+			<Metadata name="InformationRegister.ГрафикиРаботы.Resource.Значение" id="979a7267-9d10-4e0f-9a14-dc5e9a253b97"/>
+			<Metadata name="InformationRegister.ГрафикиРаботы.Dimension.График" id="e4c5f0ad-7803-4df7-974c-f4a48c719674"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="26f4a570-521e-4051-ab86-201839b89f91" configVersion="b29f538cd98d4b44b498429984eb957200000000"/>
 		<Metadata name="Report.ОстаткиТоваров" id="66303944-32b8-415e-8f77-b53c014969c0" configVersion="f74310b009dbc04bb8aa1e8d35c2c24600000000"/>
