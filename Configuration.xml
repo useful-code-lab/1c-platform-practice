@@ -262,7 +262,9 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>ПриходнаяНакладная</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
