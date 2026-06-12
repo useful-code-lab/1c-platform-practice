@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.ОстаткиНоменклатуры" id="81d2580c-3202-46aa-a1b7-0f7d1db6ad81" configVersion="9b7aaac65d950741b18d3605fcc77d0400000000">
+		<Metadata name="AccumulationRegister.ОстаткиНоменклатуры" id="81d2580c-3202-46aa-a1b7-0f7d1db6ad81" configVersion="6bd28d27112f7e4fae91dd4c870fd6fb00000000">
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Количество" id="32134a07-277f-406e-b42c-82232d3fd439"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Стоимость" id="56d52e90-f8c2-4db7-9448-74201fd41eff"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Партия" id="67ee9665-ec61-4e2b-a277-3b101985f8e3"/>
@@ -24,7 +24,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="e0ee178e-14f1-49aa-b300-e88ec99e0120"/>
 		</Metadata>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="fea74ced-d9a1-4f25-8814-23db95c27a7c.0" configVersion="5770323643a671439fd5154be7b01f2800000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="f351e7bd-3cf4-44a9-bde3-0e702c040f02" configVersion="03ad68a4528f844ca68395346d2abcd900000000">
+		<Metadata name="Document.РасходнаяНакладная" id="f351e7bd-3cf4-44a9-bde3-0e702c040f02" configVersion="a5da1b98d989cd4a9289f48c337526c600000000">
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Контрагент" id="08d30e23-bae8-4924-af62-94e8f7b2378b"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="31102949-e20e-4e3d-8505-e5ff974945f1"/>
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Склад" id="ada1f98a-0107-4253-b9ce-103c15618a22"/>
@@ -33,7 +33,7 @@
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="de2d81c3-c8fc-42af-bc73-7ff906c9e27d"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="ef734cb4-bc90-4512-ad54-afd1dfe3455e"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="f351e7bd-3cf4-44a9-bde3-0e702c040f02.0" configVersion="8cdcdb19040e4e45974d444f3449360500000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="f351e7bd-3cf4-44a9-bde3-0e702c040f02.0" configVersion="221a6c157ea1f64d837de2d724d6ce5b00000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="f4bf1992-169e-482c-8fd4-c5ecdceb40de" configVersion="e7f92ec3cf7ccb4fa587323dd3c17c0300000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a2f6e26d-1593-4fd1-9a7c-2cdc340a1226"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
