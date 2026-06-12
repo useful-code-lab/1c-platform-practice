@@ -18,6 +18,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
 		<Metadata name="ChartOfAccounts.Основной" id="e22b499a-a989-4108-b745-2d59ebf55009" configVersion="7ea688daf3abb5479fa7fcd006408b7800000000">
+			<Metadata name="ChartOfAccounts.Основной.ExtDimensionAccountingFlag.Количественный" id="4aff0bb1-5f78-42b0-a244-e4c9bfe215bb"/>
 			<Metadata name="ChartOfAccounts.Основной.AccountingFlag.Количественный" id="5930d99b-a171-467d-9018-9f56f2a5f68d"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="1c868c3163b23e40b43af6081edd6b6900000000"/>
