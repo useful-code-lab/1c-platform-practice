@@ -259,6 +259,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

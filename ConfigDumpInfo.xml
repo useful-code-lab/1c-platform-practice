@@ -1,4 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="a9521fdd39085b4d86dceb7bca17e6f600000000"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="f4bf1992-169e-482c-8fd4-c5ecdceb40de" configVersion="e7f92ec3cf7ccb4fa587323dd3c17c0300000000">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a2f6e26d-1593-4fd1-9a7c-2cdc340a1226"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="26f4a570-521e-4051-ab86-201839b89f91" configVersion="b29f538cd98d4b44b498429984eb957200000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>
