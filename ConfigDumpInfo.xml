@@ -23,8 +23,9 @@
 			<Metadata name="ChartOfAccounts.Основной.ExtDimensionAccountingFlag.Количественный" id="4aff0bb1-5f78-42b0-a244-e4c9bfe215bb"/>
 			<Metadata name="ChartOfAccounts.Основной.AccountingFlag.Количественный" id="5930d99b-a171-467d-9018-9f56f2a5f68d"/>
 		</Metadata>
+		<Metadata name="ChartOfCalculationTypes.ОсновныеНачисления" id="6d59ed56-e96e-48ce-8105-61742ae259c0" configVersion="75422a2e5a83634eaab2bc047fc1930e00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконто" id="fd3020ce-e9f4-48d2-b9fc-68f2661e4866" configVersion="18326e0ff73ecf4b81cac3cca39781d700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="53e0d758ccbbda4da62ddd61d1d14bc800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="13355bfd8cd5f04a8e7fa179c0a722b800000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="d3881398eabbca4f8c113b598681f29c00000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>
