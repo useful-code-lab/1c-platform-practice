@@ -260,6 +260,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Склады</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>

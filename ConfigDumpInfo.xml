@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="c1480c98-b443-4406-a442-7d83efae9aa5" configVersion="cbc2d3e62e8ce242bd7ed7a2989453f500000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="f422221a-0e12-4032-b588-8ed1551c1bd1"/>
+		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="b9600de7341357428f88b46ff8131be100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="7f9495f72a319a45ae1e9d5aa1d6e74600000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="f4bf1992-169e-482c-8fd4-c5ecdceb40de" configVersion="e7f92ec3cf7ccb4fa587323dd3c17c0300000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a2f6e26d-1593-4fd1-9a7c-2cdc340a1226"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
