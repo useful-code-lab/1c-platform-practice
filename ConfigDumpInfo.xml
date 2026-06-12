@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
+		<Metadata name="AccountingRegister.ЖурналПроводок" id="4728723c-7455-4511-bba8-b26087cd0041" configVersion="83ab3218e8036047a9d109ba1b7a46e900000000">
+			<Metadata name="AccountingRegister.ЖурналПроводок.Resource.Сумма" id="01014ff0-6e76-4ed1-99bf-bb116bd54331"/>
+			<Metadata name="AccountingRegister.ЖурналПроводок.Resource.Количество" id="cb5573f1-d006-414e-adaf-c390db6d0bb8"/>
+		</Metadata>
 		<Metadata name="AccumulationRegister.ОстаткиНоменклатуры" id="81d2580c-3202-46aa-a1b7-0f7d1db6ad81" configVersion="6bd28d27112f7e4fae91dd4c870fd6fb00000000">
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Количество" id="32134a07-277f-406e-b42c-82232d3fd439"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Стоимость" id="56d52e90-f8c2-4db7-9448-74201fd41eff"/>
@@ -16,8 +20,8 @@
 		<Metadata name="ChartOfAccounts.Основной" id="e22b499a-a989-4108-b745-2d59ebf55009" configVersion="7ea688daf3abb5479fa7fcd006408b7800000000">
 			<Metadata name="ChartOfAccounts.Основной.AccountingFlag.Количественный" id="5930d99b-a171-467d-9018-9f56f2a5f68d"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="e0f749e67f890f4b9958348c04d831d400000000"/>
-		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="9dff9ad17307a2449ce68d107073b70600000000">
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="1c868c3163b23e40b43af6081edd6b6900000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="5742ec162dd2044b9cf49575fc46cc4700000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Контрагент" id="48080c94-40af-4439-bbcf-ad6df060112e"/>
@@ -26,7 +30,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="b6bce41b-9bb6-450d-848c-3332376efe17"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="e0ee178e-14f1-49aa-b300-e88ec99e0120"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="fea74ced-d9a1-4f25-8814-23db95c27a7c.0" configVersion="5770323643a671439fd5154be7b01f2800000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="fea74ced-d9a1-4f25-8814-23db95c27a7c.0" configVersion="d3cf40623427f246b767209fa953c09100000000"/>
 		<Metadata name="Document.РасходнаяНакладная" id="f351e7bd-3cf4-44a9-bde3-0e702c040f02" configVersion="f14b8d4747fe8848bfa2b2a98667e8c800000000">
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Контрагент" id="08d30e23-bae8-4924-af62-94e8f7b2378b"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="31102949-e20e-4e3d-8505-e5ff974945f1"/>
