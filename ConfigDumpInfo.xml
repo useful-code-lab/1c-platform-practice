@@ -13,7 +13,10 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="f422221a-0e12-4032-b588-8ed1551c1bd1"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="82a77f81dc7a1a4aa1d09368444710e400000000"/>
+		<Metadata name="ChartOfAccounts.Основной" id="e22b499a-a989-4108-b745-2d59ebf55009" configVersion="7ea688daf3abb5479fa7fcd006408b7800000000">
+			<Metadata name="ChartOfAccounts.Основной.AccountingFlag.Количественный" id="5930d99b-a171-467d-9018-9f56f2a5f68d"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="e0f749e67f890f4b9958348c04d831d400000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="9dff9ad17307a2449ce68d107073b70600000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>

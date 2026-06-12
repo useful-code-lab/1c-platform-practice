@@ -267,6 +267,7 @@
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
+			<ChartOfAccounts>Основной</ChartOfAccounts>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
