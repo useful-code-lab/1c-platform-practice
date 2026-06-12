@@ -13,7 +13,7 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="f422221a-0e12-4032-b588-8ed1551c1bd1"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="43497cdb9ca73542aa40d18dfe2bf13900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="82a77f81dc7a1a4aa1d09368444710e400000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="9dff9ad17307a2449ce68d107073b70600000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>
@@ -41,5 +41,8 @@
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="26f4a570-521e-4051-ab86-201839b89f91" configVersion="b29f538cd98d4b44b498429984eb957200000000"/>
+		<Metadata name="Report.ОстаткиТоваров" id="66303944-32b8-415e-8f77-b53c014969c0" configVersion="f74310b009dbc04bb8aa1e8d35c2c24600000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="d3ba8272-5717-4ded-81b9-d181e92c53fd" configVersion="fa929fb3c5ad2b44963c50f6ed890c7a00000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="d3ba8272-5717-4ded-81b9-d181e92c53fd.0" configVersion="c290c8ed496003408658ce92ef2d4a7900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

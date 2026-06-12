@@ -265,6 +265,7 @@
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
