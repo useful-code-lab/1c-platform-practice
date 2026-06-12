@@ -12,6 +12,11 @@
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Номенклатура" id="90889f64-f6a2-44bd-b9dc-b4c53f267a3b"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Склад" id="bff97923-9690-41ef-92be-d90f8273d359"/>
 		</Metadata>
+		<Metadata name="CalculationRegister.Зарплата" id="553174b3-c4b5-44f6-b83d-a1ef388bfa1c" configVersion="ac4b849f596cc144963431ea5ed1b88c00000000">
+			<Metadata name="CalculationRegister.Зарплата.Resource.Результат" id="974327f2-7ab4-4c20-b103-a076ac7bd203"/>
+			<Metadata name="CalculationRegister.Зарплата.Attribute.РазмерОклада" id="9fc62817-6300-4731-be44-accab89d635c"/>
+			<Metadata name="CalculationRegister.Зарплата.Dimension.Сотрудник" id="a042de4b-a60c-4269-a57d-4f2ff82fd252"/>
+		</Metadata>
 		<Metadata name="Catalog.ГрафикиРаботы" id="ed99b03c-f064-4432-b7cb-74620beadfe8" configVersion="1cacb718c99ed9478d15301aba579f4900000000"/>
 		<Metadata name="Catalog.Контрагенты" id="105170d9-4473-40e5-9ed6-120a8665c40a" configVersion="ad49b5e07f029f4aaa2337df233349dc00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="c1480c98-b443-4406-a442-7d83efae9aa5" configVersion="48100993031bf94f977b45ce0e9cb86c00000000">
@@ -25,7 +30,7 @@
 		</Metadata>
 		<Metadata name="ChartOfCalculationTypes.ОсновныеНачисления" id="6d59ed56-e96e-48ce-8105-61742ae259c0" configVersion="75422a2e5a83634eaab2bc047fc1930e00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконто" id="fd3020ce-e9f4-48d2-b9fc-68f2661e4866" configVersion="18326e0ff73ecf4b81cac3cca39781d700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="13355bfd8cd5f04a8e7fa179c0a722b800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="405ecccc812d1148b90417b083bc4cdf00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="d3881398eabbca4f8c113b598681f29c00000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>

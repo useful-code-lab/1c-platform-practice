@@ -274,6 +274,7 @@
 			<ChartOfAccounts>Основной</ChartOfAccounts>
 			<AccountingRegister>ЖурналПроводок</AccountingRegister>
 			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
+			<CalculationRegister>Зарплата</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
