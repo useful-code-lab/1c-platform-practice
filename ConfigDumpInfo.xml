@@ -14,7 +14,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="5843773a-f7ac-4489-86a9-5d97bf158438" configVersion="2eb8ca2d58ff9742a03690de1790297e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="3e984e66-1e8a-4c91-b5a4-72899b1162c2" configVersion="3c32c5b5c7abd84985e4f3b24d3e2ac600000000"/>
-		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="8e5003a829f806408f4b1fcc45ad7ebe00000000">
+		<Metadata name="Document.ПриходнаяНакладная" id="fea74ced-d9a1-4f25-8814-23db95c27a7c" configVersion="9dff9ad17307a2449ce68d107073b70600000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="05b39984-7ec7-4267-b907-090b3d415d64"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1e49d7fb-f01c-40b5-9d8a-78ee7252a2f6"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Контрагент" id="48080c94-40af-4439-bbcf-ad6df060112e"/>
@@ -23,6 +23,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="b6bce41b-9bb6-450d-848c-3332376efe17"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="e0ee178e-14f1-49aa-b300-e88ec99e0120"/>
 		</Metadata>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="fea74ced-d9a1-4f25-8814-23db95c27a7c.0" configVersion="5770323643a671439fd5154be7b01f2800000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="f4bf1992-169e-482c-8fd4-c5ecdceb40de" configVersion="e7f92ec3cf7ccb4fa587323dd3c17c0300000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a2f6e26d-1593-4fd1-9a7c-2cdc340a1226"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="cd5c6212-e057-48e8-8e32-ed3bb8862d89"/>
